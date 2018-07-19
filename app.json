@@ -1,0 +1,14 @@
+{
+    "name": "newsAPI",
+    "description": "An API that exposes news in the form of a response that is accepted by Chatfuel and is rendered as a Gallery on Facebook Messenger",
+    "repository": "https://github.com/gitgit1234/newsAPI.git",
+    "keywords": [
+        "news",
+        "api",
+        "Tivity",
+        "Chatfuel",
+        "facebook",
+        "Facebook",
+        "Messenger"
+    ]
+}
